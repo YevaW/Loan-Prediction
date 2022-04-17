@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+pickle-mixin
+seaborn
+feature-engine
+sklearn
+numpy
+seaborn
+gunicorn
